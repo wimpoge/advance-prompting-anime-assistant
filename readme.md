@@ -1,4 +1,4 @@
-# Advanced Anime Assistant
+# Advanced Prompting Anime Assistant
 
 An interactive Gradio application demonstrating various AI prompting techniques using OpenAI's GPT-3.5 model to answer anime-related questions.
 
